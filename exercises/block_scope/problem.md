@@ -1,6 +1,8 @@
 # Exercise
 
+Create a file named solution.js
 Modify this file by choosing either `var`, `let` or `const` to make the code behave as described in the comments
+Make sure to remove instruction comments
 
 ```javascript
 'use strict';
